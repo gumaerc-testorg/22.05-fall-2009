@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7c59b558-4d6b-4dee-4ec1-4c18f51602d0
 resourcetype: Document
 title: MIT22_05F09_examques01.pdf
 uid: 0079e5fe-50da-6502-6a9f-b8caaf276fb0
