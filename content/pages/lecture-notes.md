@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture slides, notes, and references for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e52c3fe7-cb97-e13a-4235-acedb73dba24
 ---
@@ -36,7 +41,7 @@ Reactor Fundamentals / Nomenclature / Nuclear Reactions / Nuclear Stability
 
 Chapter 1 \[EEL\]
 
-([PDF]({{< baseurl >}}/resources/mit22_05f09_lec01))
+({{% resource_link f17d7bd7-b3b0-c225-e125-af40ea0c0c95 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -70,7 +75,7 @@ Radioactive Decay / Cross-Sections
 
 Chapters 2 and 3 \[EEL\]
 
-([PDF]({{< baseurl >}}/resources/mit22_05f09_lec02-03)) (cont.)
+({{% resource_link b54b6cca-1b12-f2d5-f3a7-a5d4f2492bc6 "PDF" %}}) (cont.)
 
 
 {{< tdclose >}}
@@ -112,7 +117,7 @@ Power Reactors I (LWRs / Neutron Life Cycle)
 
 Chapter 4 \[EEL\]
 
-([PDF]({{< baseurl >}}/resources/mit22_05f09_lec04))
+({{% resource_link 5c3af91e-84b5-e829-e731-5d2e484c00cb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -138,7 +143,7 @@ Chapter 4 \[EEL\] (cont.)
 Transport Equation
 {{< tdclose >}}
 {{< tdopen >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Notes (![This resource may not render correctly in a screen reader.](/images/ina
 Criticality / Flux / Current / BCs
 {{< tdclose >}}
 {{< tdopen >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,11 +169,11 @@ Kinetics Approximation
 {{< tdopen >}}
 
 
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 
 Chapter 5 \[EEL\]
 
-([PDF]({{< baseurl >}}/resources/mit22_05f09_lec05))
+({{% resource_link ace8499f-800e-5d5d-7d90-1a8ecc229c35 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -230,7 +235,7 @@ Chapter 6 \[EEL\] (cont.)
 Diffusion – Two Groups
 {{< tdclose >}}
 {{< tdopen >}}
-Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +275,7 @@ Energy Transport
 
 Chapter 8 \[EEL\]
 
-([PDF]({{< baseurl >}}/resources/mit22_05f09_lec08-09))
+({{% resource_link 8d7f2ae2-878c-d613-0d55-7a5a45adc567 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -288,7 +293,7 @@ Reactivity Feedback / Transients
 
 Chapter 9 \[EEL\]
 
-([PDF]({{< baseurl >}}/resources/mit22_05f09_lec08-09))
+({{% resource_link 8d7f2ae2-878c-d613-0d55-7a5a45adc567 "PDF" %}})
 
 
 {{< tdclose >}}

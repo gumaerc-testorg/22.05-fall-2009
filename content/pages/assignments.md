@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 2b01eaaa-6a10-c14c-f629-17d2a8d57fba
 ---
@@ -27,7 +31,7 @@ DUE DATES
 Problem Set 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps01))
+({{% resource_link d92204f2-98dc-a0eb-b79f-aa12db1675a8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #4
@@ -39,7 +43,7 @@ Ses #4
 Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps02))
+({{% resource_link cccdf695-046e-abcd-5d8f-77d813a3bd7f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #6
@@ -51,7 +55,7 @@ Ses #6
 Problem Set 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps03))
+({{% resource_link 8deee208-cd17-4870-0add-1e9683d53b8a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #8
@@ -63,7 +67,7 @@ Ses #8
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps04))
+({{% resource_link 3f51e0c0-fa19-a9d2-784d-5199cf9f4782 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #11
@@ -75,7 +79,7 @@ Ses #11
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps05))
+({{% resource_link eaaec902-3664-2f83-2d2a-5df942abb0ca "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #13
@@ -87,7 +91,7 @@ Ses #13
 Problem Set 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps06))
+({{% resource_link d5be23a7-ed4b-0656-acb6-bcf3529321c9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #18
@@ -99,7 +103,7 @@ Ses #18
 Problem Set 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps07))
+({{% resource_link 00b74296-24fc-3396-eef5-da0135db3bc8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #20
@@ -111,7 +115,7 @@ Ses #20
 Problem Set 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_05f09_ps08))
+({{% resource_link 02428a8b-2b23-8b8b-f61c-05017b3ba9b0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Ses #23
