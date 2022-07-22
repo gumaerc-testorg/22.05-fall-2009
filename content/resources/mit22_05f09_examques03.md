@@ -6,6 +6,7 @@ file: /courses/22-05-neutron-science-and-reactor-physics-fall-2009/a733fab0a3aea
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_05F09_examques03.pdf
 uid: a733fab0-a3ae-a821-e732-42c8384b7cfc
 ---
 This resource contains problem statements related to diffusion equations, and boundary conditions.
-

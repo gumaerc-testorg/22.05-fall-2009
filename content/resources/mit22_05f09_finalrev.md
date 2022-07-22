@@ -6,6 +6,7 @@ file: /courses/22-05-neutron-science-and-reactor-physics-fall-2009/bfbef7a6ee2fa
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_05F09_finalrev.pdf
 uid: bfbef7a6-ee2f-a199-b10e-dc01a3fd919a
 ---
 This resource contains problem statements related to binding energy, microscopic and macroscopic cross sections.
-

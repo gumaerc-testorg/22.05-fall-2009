@@ -6,6 +6,7 @@ file: /courses/22-05-neutron-science-and-reactor-physics-fall-2009/e17f75633d5ef
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT22_05F09_finalexam.pdf
 uid: e17f7563-3d5e-f471-bd0d-c3fa35f9b826
 ---
 This resource contains problem statements related to alpha decay reaction, alpha emitter, doppler effect, and diffusion theory.
-
