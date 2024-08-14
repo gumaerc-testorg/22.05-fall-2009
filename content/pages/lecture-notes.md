@@ -126,7 +126,7 @@ Chapter 6 \[EEL\] (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Diffusion – Two Groups
 {{< tdclose >}}{{< tdopen >}}
-Notes ([PDF - 1.9MB](http://canteach.candu.org/library/20041802.pdf))
+ 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
