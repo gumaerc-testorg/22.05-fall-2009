@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to alpha decay reaction,
   alpha emitter, doppler effect, and diffusion theory.
-file: /ol-ocw-studio-app/courses/22-05-neutron-science-and-reactor-physics-fall-2009/e17f75633d5ef471bd0dc3fa35f9b826_MIT22_05F09_finalexam.pdf
+file: /courses/22-05-neutron-science-and-reactor-physics-fall-2009/e17f75633d5ef471bd0dc3fa35f9b826_MIT22_05F09_finalexam.pdf
 file_size: 217949
 file_type: application/pdf
 learning_resource_types:
