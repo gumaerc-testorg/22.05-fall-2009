@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to binding enegry,
   macroscopic and micrscopic cross section and molten salt reactor.
-file: /ol-ocw-studio-app/courses/22-05-neutron-science-and-reactor-physics-fall-2009/0079e5fe50da65026a9fb8caaf276fb0_MIT22_05F09_examques01.pdf
+file: /courses/22-05-neutron-science-and-reactor-physics-fall-2009/0079e5fe50da65026a9fb8caaf276fb0_MIT22_05F09_examques01.pdf
 file_size: 216722
 file_type: application/pdf
 learning_resource_types:
