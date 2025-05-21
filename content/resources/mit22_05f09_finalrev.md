@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to binding energy,
   microscopic and macroscopic cross sections.
-file: /ol-ocw-studio-app/courses/22-05-neutron-science-and-reactor-physics-fall-2009/bfbef7a6ee2fa199b10edc01a3fd919a_MIT22_05F09_finalrev.pdf
+file: /courses/22-05-neutron-science-and-reactor-physics-fall-2009/bfbef7a6ee2fa199b10edc01a3fd919a_MIT22_05F09_finalrev.pdf
 file_size: 123088
 file_type: application/pdf
 learning_resource_types:
