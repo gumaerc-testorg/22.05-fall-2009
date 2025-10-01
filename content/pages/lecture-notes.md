@@ -78,20 +78,20 @@ Chapter 4 \[EEL\] (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Transport Equation
 {{< tdclose >}}{{< tdopen >}}
-Notes ([PDF](https://canteach.candu.org/Content%20Library/20041802.pdf))
+Notes ({{% resource_link "0a970bbe-c335-4b0f-8b4d-c57a918ac618" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Criticality / Flux / Current / BCs
 {{< tdclose >}}{{< tdopen >}}
-Notes ([PDF](https://canteach.candu.org/Content%20Library/20041802.pdf))
+Notes ({{% resource_link "0a970bbe-c335-4b0f-8b4d-c57a918ac618" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 Kinetics Approximation
 {{< tdclose >}}{{< tdopen >}}
 
-Notes ([PDF](https://canteach.candu.org/Content%20Library/20041802.pdf))
+Notes ({{% resource_link "0a970bbe-c335-4b0f-8b4d-c57a918ac618" "PDF" %}})
 
 Chapter 5 \[EEL\]
 
